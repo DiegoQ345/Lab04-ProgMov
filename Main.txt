@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificación realizada por Angel Yucra (1)
+=======
+Modificacion hecho por Diego Quispe
+>>>>>>> 5277b6a (Cambio del segundo desarrollador)
